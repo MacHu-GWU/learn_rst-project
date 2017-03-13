@@ -48,3 +48,7 @@ List Table:
    * - Gannet Ripple
      - 1.99
      - On a stick!
+
+Reference:
+
+- http://docutils.sourceforge.net/docs/ref/rst/directives.html#tables
