@@ -1,4 +1,4 @@
-Internal crossreferences, like example_.
+Internal crossreferences, like `this example <example_>`_.
 
 - Some Text
 - Some Text

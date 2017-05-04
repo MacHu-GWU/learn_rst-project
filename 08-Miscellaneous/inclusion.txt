@@ -1,0 +1,2 @@
+This first example will be parsed at the document level, and can
+thus contain any construct, including section headers.

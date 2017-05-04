@@ -1,3 +1,9 @@
+与表格有关的元素。
+
+参考资料:
+
+- http://docutils.sourceforge.net/docs/ref/rst/directives.html#tables
+
 Grid Table:
 
 +-----------+------+------------+-----------------+
